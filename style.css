@@ -1,0 +1,18 @@
+#country_API{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.API_of_countries {
+    padding: 20px 20px;
+    background: red;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+button {
+    
+    padding: 5px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 10px;
+}
